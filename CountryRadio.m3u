@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="100hitz-newcountry" tvg-name="100Hitz New Country" group-title="Country",100Hitz New Country
+https://pureplay.cdnstream1.com/6030_64.aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Country",181.fm Highway 181
+https://18133.live.streamtheworld.com/181_HIGHWAY_128KAAC.aac
+
+#EXTINF:-1 group-title="Country",181.fm Kickin' Country
+https://18123.live.streamtheworld.com/181_KICKIN128KAAC.aac
+
+#EXTINF:-1 group-title="Country",Big R Radio - New Country
+https://bigrradio.cdnstream1.com/5187_128
+
+#EXTINF:-1 group-title="Country",Big R Radio - Country Gold
+https://bigrradio.cdnstream1.com/5106_128
+
+#EXTINF:-1 group-title="Country",Nashville FM
+https://cast1.asurahosting.com/proxy/nashvil/stream
+
+#EXTINF:-1 group-title="Country",GotRadio Country
+https://pureplay.cdnstream1.com/6006_128.mp3
+
+#EXTINF:-1 group-title="Country",HPR1 Traditional Country
+https://ais-sa2.cdnstream1.com/1305_128.mp3
+
+#EXTINF:-1 group-title="Country",HPR2 Today's Classic Country
+https://ais-sa2.cdnstream1.com/1306_128.mp3
+
+#EXTINF:-1 group-title="Country",Country Hits Radio UK
+https://media-ssl.musicradio.com/CountryHits
