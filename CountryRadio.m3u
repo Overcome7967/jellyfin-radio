@@ -1,4 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="100hitz-6030" group-title="100Hitz",100Hitz (6030)
+#EXTINF:-1 tvg-id="100hitz-newcountry" group-title="Country",100Hitz New Country
 https://pureplay.cdnstream1.com/6030_128.mp3
