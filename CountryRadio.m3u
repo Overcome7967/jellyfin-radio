@@ -2,5 +2,8 @@
 #EXTINF:-1 tvg-id="100hitz-newcountry" group-title="Country",100Hitz New Country
 https://pureplay.cdnstream1.com/6030_128.mp3
 
-#EXTINF:-1 tvg-id="0r-country" group-title="Country",COUNTRY || Country Pop, Country Rock, Nashville, Americana, Folk, Southern Rock, Roadtrip, Storytelling, Acoustic, Feel Good, Heartland, Modern Country, Classic Country, Chill, Roots
+#EXTINF:-1 tvg-id="0r-country" group-title="Country",COUNTRY Germania
 https://0nlineradio.radioho.st/0r-country?ref=rb26
+
+#EXTINF:-1 tvg-id="977-country" group-title="Country",977 Country
+http://15113.live.streamtheworld.com:80/977_COUNTRY_SC
